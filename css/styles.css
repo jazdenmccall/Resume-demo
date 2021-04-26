@@ -1,0 +1,72 @@
+/* tags */
+
+body {
+  margin: 0;
+  text-align: center;
+  font-family: verdana, sans-serif;
+  font-size: 200%;
+  background-color: #e4fbff;
+}
+
+
+h1 {
+
+  margin-top: 50px auto 0 auto;
+  font-size: 5.625rem;
+  font-family: "Sacramento", cursive;
+  color: #66BFBF;
+  line-height: 2;
+}
+
+h2 {
+  font-family: "Montserrat", sans-serif;
+  font-size: 2.5rem;
+  color: #66BFBF;
+}
+
+h3 {
+  color: #11999E;
+}
+
+span {
+  border-width: thick;
+  border-color: blue;
+}
+
+
+/* Class Selector */
+
+.bottom-container {
+
+}
+
+.middle-container {
+
+}
+
+.top-container {
+  background-color: #e4fbff;
+  position: relative;
+  padding-top: 100px;
+}
+
+.bottom-cloud {
+  position: absolute;
+  left: 300px;
+  bottom: 300px;
+}
+.top-cloud {
+  position: absolute;
+  right: 300px;
+  top: 50px;
+}
+
+.first-line{
+  line-height: 2;
+}
+
+.second-line {
+  font-weight: normal;
+}
+
+/* ID Selector */
